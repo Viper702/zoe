@@ -6,9 +6,11 @@
   "description": "Kik bot.",
   "dependencies": {
     "botkit": "^0.5.0",
+    "epichal": "^0.1.0",
     "hubot": "^2.19.0",
     "hubot-base-adapter": "0.0.1",
     "hubot-diagnostics": "0.0.1",
+    "hubot-epichal": "^0.1.2",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
