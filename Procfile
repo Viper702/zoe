@@ -1,1 +1,1 @@
-web: bin/hubot -a json-rest
+web: bin/hubot -a messenger-bot
