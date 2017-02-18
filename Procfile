@@ -1,1 +1,1 @@
-web: bin/hubot -a http
+web: bin/hubot -a json-rest
