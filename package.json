@@ -5,6 +5,7 @@
   "author": "Erick <erick.charette@gmail.com>",
   "description": "Kik bot.",
   "dependencies": {
+    "apiai": "^4.0.0",
     "botkit": "^0.5.0",
     "epichal": "^0.1.0",
     "hubot": "^2.19.0",
@@ -16,6 +17,7 @@
     "hubot-help": "^0.2.0",
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-http": "0.0.3",
+    "hubot-incoming-webhook": "^1.0.1",
     "hubot-json-rest": "^1.0.0",
     "hubot-maps": "0.0.2",
     "hubot-messenger-bot": "^1.0.1",
