@@ -1,1 +1,1 @@
-web: ./bin/hubot -a discord-tspfork
+web: ./bin/hubot -a discord
