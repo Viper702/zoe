@@ -1,1 +1,1 @@
-web: ./bin/hubot -a discord-adapter
+web: ./bin/hubot -a discord
