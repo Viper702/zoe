@@ -1,1 +1,1 @@
-web: bin/hubot hubot -n "" -a messenger-bot
+web: bin/hubot -a slack

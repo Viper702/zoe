@@ -1,13 +1,22 @@
 [
+  "dorfbot-rpgdice",
+  "hubot-alias",
   "hubot-diagnostics",
+  "hubot-cool-ascii-faces",
+  "hubot-epichal",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",
+  "hubot-microsoft-translator",
+  "hubot-nietzche",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-search",
   "hubot-shipit",
-  "hubot-epichal"
+  "hubot-stache",
+  "hubot-weather",
+  "hubot-youtube"
 ]
