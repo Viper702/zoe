@@ -17,6 +17,7 @@
     "hubot-cool-ascii-faces": "^1.2.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-disbot": "^0.2.1",
+    "hubot-discord-tspfork": "^0.1.1-f",
     "hubot-epichal": "^0.1.2",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
