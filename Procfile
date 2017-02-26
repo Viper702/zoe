@@ -1,1 +1,1 @@
-web: ./bin/hubot -a discord-ng
+web: ./bin/hubot -a discord-adapter

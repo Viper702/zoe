@@ -1,14 +1,15 @@
 {
-  "name": "bianca",
-  "version": "0.0.0",
+  "name": "Zoe (Hubot)",
+  "version": "2.19.0",
   "private": true,
-  "author": "Erick <erick.charette@gmail.com>",
-  "description": "She does the things.",
+  "author": "Erick Charette<erick@botsrus.tk>",
+  "description": "Zoe-bot. She does the things.",
   "dependencies": {
     "coffee-script": "^1.12.4",
     "hubot": "^2.19.0",
     "hubot-azure-scripts": "^0.1.7",
     "hubot-diagnostics": "0.0.1",
+    "hubot-discord-adapter": "^2.0.3",
     "hubot-discord-ng": "^1.2.35",
     "hubot-epichal": "^0.1.2",
     "hubot-google-images": "^0.2.6",
@@ -24,7 +25,5 @@
     "hubot-skypebots": "^1.0.8",
     "hubot-vsonline": "^0.2.9"
   },
-  "engines": {
-    
-  }
+  "engines": {}
 }
