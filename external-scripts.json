@@ -3,6 +3,7 @@
   "hubot-alias",
   "hubot-diagnostics",
   "hubot-cool-ascii-faces",
+  "hubot-discord-tspfork",
   "hubot-epichal",
   "hubot-help",
   "hubot-heroku-keepalive",
