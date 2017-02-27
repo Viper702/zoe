@@ -18,7 +18,8 @@
     "dotenv": "^4.0.0",
     "fakeredis": "^1.0.3",
     "hubot": "^2.19.0",
-    "hubot-auth": "^2.0.0",
+    "hubot-alias": "^0.1.11",
+    "hubot-auth": "^2.1.0",
     "hubot-azure-scripts": "^0.1.7",
     "hubot-base-adapter": "0.0.1",
     "hubot-cool-ascii-faces": "^1.2.0",
@@ -61,7 +62,8 @@
     "npm": "^4.3.0",
     "pkginfo": "^0.4.0",
     "sinon": "^1.17.6",
-    "sinon-chai": "^2.8.0"
+    "sinon-chai": "^2.8.0",
+    "soupselect": "^0.2.0"
   },
   "engines": {}
 }
