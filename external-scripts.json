@@ -42,6 +42,7 @@
   "hubot-rocketchat-announcement",
   "hubot-rules",
   "hubot-search",
+  "hubot-seen",
   "hubot-shipit",
   "hubot-spy",
   "hubot-stalk",
@@ -52,7 +53,6 @@
   "hubot-voting",
   "hubot-warm-welcome",
   "hubot-weather",
-  "hubot-wit-helper",
   "hubot-youtube",
   "hubot-wikipedia-lang"
 ]
