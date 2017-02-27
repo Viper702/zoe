@@ -23,6 +23,7 @@
     "hubot": "^2.19.0",
     "hubot-alias": "^0.1.11",
     "hubot-anime-dl": "^2.1.1",
+    "hubot-anon": "0.0.4",
     "hubot-auth": "^2.1.0",
     "hubot-azure-scripts": "^0.1.7",
     "hubot-base-adapter": "0.0.1",
