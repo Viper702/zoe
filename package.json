@@ -29,7 +29,6 @@
     "hubot-codenames": "github:mudge/hubot-codenames",
     "hubot-config": "^1.0.1",
     "hubot-cool-ascii-faces": "^1.2.0",
-    "hubot-cron-events": "^1.0.0",
     "hubot-daily-count-tracker": "^1.1.1",
     "hubot-dance": "latest",
     "hubot-diagnostics": "0.0.1",
