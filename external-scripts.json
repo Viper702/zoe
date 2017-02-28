@@ -21,6 +21,7 @@
   "hubot-heroku-keepalive",
   "hubot-history",
   "hubot-google-images",
+  "hubot-google-news",
   "hubot-google-translate",
   "hubot-google-tts",
   "hubot-group",
