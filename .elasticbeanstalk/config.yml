@@ -1,0 +1,13 @@
+branch-defaults:
+  master:
+    environment: zoe-dev
+    group_suffix: null
+global:
+  application_name: zoe
+  branch: null
+  default_ec2_keyname: Viper1968
+  default_platform: Node.js
+  default_region: us-west-1
+  profile: eb-cli
+  repository: null
+  sc: git
