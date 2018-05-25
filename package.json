@@ -1,6 +1,6 @@
 {
   "name": "zoe",
-  "version": "2.0.0",
+  "version": "2.19.0",
   "private": false,
   "author": "Viper702 <erick@nocturnail702,com>",
   "description": "A cool little AI cyber-chick",
@@ -11,6 +11,7 @@
     "cheerio": "^0.22.0",
     "cleverbot": "^1.0.1",
     "coffee-script": "^1.6.3",
+    "compression": "^1.5.2",
     "core-decorators": "^0.15.0",
     "dorfbot-rpgdice": "^1.0.29",
     "dotenv": "^4.0.0",
