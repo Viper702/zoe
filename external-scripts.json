@@ -46,7 +46,6 @@
   "hubot-privilege",
   "hubot-redis-brain",
   "hubot-restrict-ip",
-  "hubot-rss-reader",
   "hubot-rules",
   "hubot-search",
   "hubot-seen",
