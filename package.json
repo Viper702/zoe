@@ -22,6 +22,7 @@
     "hubot-annoying-song": "0.0.1",
     "hubot-anon": "0.0.4",
     "hubot-auth": "^2.1.0",
+    "hubot-botframework": "^0.10.1",
     "hubot-caps-lock": "^1.0.3",
     "hubot-cleverbot": "^1.0.0",
     "hubot-codenames": "^1.0.0",
