@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zoe
 
 zoe is a chat bot built on the [Hubot][hubot] framework. It was
@@ -212,3 +213,6 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+=======
+# zoe-702
+>>>>>>> 181af128a23998c08f8394a0474911f18f49d2b6
