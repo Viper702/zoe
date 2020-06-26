@@ -1,1 +1,1 @@
-web: ./bin/hubot -a kik-bot-api-unofficial -n "Io"
+web: ./bin/hubot -a kik_unofficial -n "Io"
