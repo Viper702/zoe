@@ -57,6 +57,7 @@
     "hubot-urban-dictionary": "^1.0.5",
     "istanbul": "^0.4.5",
     "kik-bot-api-unofficial": "file:node_modules/kik-bot-api-unofficial",
+    "kik-node-api": "^2.0.0",
     "line-reader": "^0.4.0",
     "mocha": "^3.5.3",
     "save": "^2.4.0",
